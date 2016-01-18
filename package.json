@@ -21,9 +21,6 @@
     "android",
     "react-component"
   ],
-  "peerDependencies": {
-    "react-native": ">=0.15.0"
-  },
   "author": "Anarchic Knight <anarchicknight@gmail.com> (http://www.anarchicknight.co.uk)",
   "license": {
     "type": "MIT",
